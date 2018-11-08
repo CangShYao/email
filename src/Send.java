@@ -10,9 +10,9 @@ import java.util.Properties;
 public class Send {
     // 获取系统属性
     public Send(String receiver, String subjection, String content) {
-        String myEmailAccount = "m13296503959@163.com";
+        String myEmailAccount = "xxxxxxxxxxx@163.com";
         // 发件人电子邮箱
-        String myEmailPassword = "520134wo";
+        String myEmailPassword = "xxxxxx";
         // 发件人密码
         String myEmailSMTPHost = "smtp.163.com";
         // smtp host
